@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/integer_to_english.svg)](http://badge.fury.io/rb/integer_to_english)
+
 # IntegerToEnglish
 
 The ```Integer``` class is pimped up with the ```to_english``` method.
