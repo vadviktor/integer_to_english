@@ -33,7 +33,7 @@ Or install it yourself as:
 ```
 
 ```ruby
-42to_english
+42.to_english
 'forty-two'
 ```
 
